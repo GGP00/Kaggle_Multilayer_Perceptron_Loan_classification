@@ -1,4 +1,4 @@
-# Achieved F-score 97%
+# Achieved F-score = 97%
 
 This challenge consists in an automatic learning competition. The task is to use the techniques learned in class, applying them to a competition with the aim of obtaining the best model. To this end, a dataset of SME enterprises that have applied for a loan is provided, and their mission will be to build a classifier that determines whether the loan should be granted or denied.
 
